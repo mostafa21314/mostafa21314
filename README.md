@@ -19,4 +19,4 @@ Currently exploring autonomous driving, deep learning, and real-time perception 
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,react,django,tailwind,pytorch&theme=light)](https://skillicons.dev)
+![snake gif](https://github.com/MostafaGaafar/MostafaGaafar/blob/output/github-contribution-grid-snake.svg)
