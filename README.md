@@ -19,7 +19,4 @@ Currently exploring autonomous driving, deep learning, and real-time perception 
 
 ---
 
-## 📊 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaGaafar&show_icons=true&theme=tokyonight)
-
----
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,react,django,tailwind,pytorch&theme=light)](https://skillicons.dev)
