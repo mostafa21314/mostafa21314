@@ -19,4 +19,8 @@ Currently exploring autonomous driving, deep learning, and real-time perception 
 
 ---
 
-![snake gif](https://github.com/MostafaGaafar/MostafaGaafar/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaGaafar&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGaafar&layout=compact&theme=tokyonight" height="180em"/>
+</p>
