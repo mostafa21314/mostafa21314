@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mostafa Mahmoud Gaafar
+# Hi there 👋, I'm Mostafa Gaafar
 
 I’m a software engineer passionate about AI, computer vision, and building impactful projects.  
 Currently exploring autonomous driving, deep learning, and real-time perception systems.
